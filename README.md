@@ -26,4 +26,6 @@
 ## مثال على بيانات JSON للإشعار
 
 يوضح ملف `body.json` كيفية تكوين بيانات JSON لإرسال إشعار. يحتوي على العنوان، المحتوى، وتفاصيل خاصة بنظام التشغيل لتحديد أولوية الإشعار وغيرها.
+## Medium article link
+https://medium.com/@taufiqelahi7/firebase-cloud-messaging-http-v1-using-flutter-e227490b2f93
 
