@@ -27,9 +27,3 @@
 
 يوضح ملف `body.json` كيفية تكوين بيانات JSON لإرسال إشعار. يحتوي على العنوان، المحتوى، وتفاصيل خاصة بنظام التشغيل لتحديد أولوية الإشعار وغيرها.
 
-## روابط
-
-- [ملف الـ Dart للمساعدة في الإشعارات](https://github.com/eisaibrahem/Solve-Cloud-Messaging-API-Legacy-/blob/main/notification_helper.dart)
-- [JSON الأساسي لبنية الإشعار](https://github.com/eisaibrahem/Solve-Cloud-Messaging-API-Legacy-/blob/main/body.json)
-
-للمزيد من المعلومات والتفاصيل، يمكن مراجعة الكود المصدري في الروابط المذكورة أعلاه.
